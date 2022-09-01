@@ -1,0 +1,51 @@
+:root{
+	font-size: 16px;
+}
+
+body{
+	font-family: monospace;
+}
+
+.contenedor{
+	height: 500px;
+	width: 500px;
+	border: 50px;
+	border-radius: 50%;
+	border-style: groove;
+	display: inline-flex;
+	justify-content: space-around;
+}
+
+.contenedor p{
+	text-align: justify;
+	font-size: 24px;
+	font-family: monospace;
+}
+
+.envase{
+	height: 1000px;
+	width: 1000px;
+	border: 50px;
+	border-radius: 50%;
+	border-style: groove;
+	border-color: lightgreen;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+	flex-wrap: wrap;
+}
+
+.elemento{
+	height: 200px;
+	width: 200px;
+	border: 50px;
+	border-radius: 50%;
+	border-style: groove;
+	display: flex;
+	flex-direction: column;
+}
+
+@media screen{
+	
+}

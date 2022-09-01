@@ -1,0 +1,10 @@
+.div{
+	align-content: center;
+	border: 1px red solid;
+    height: 100px;
+    background: blue;
+    transition: width 2s;
+    transition: width 2s;
+	margin: 10px 2px 2px 10px;	
+	padding: 2cm 0cm 0cm 1.5cm;
+}
